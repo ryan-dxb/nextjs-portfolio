@@ -17,7 +17,7 @@ function Hero() {
   });
 
   return (
-    <div className="flex flex-col h-screen space-y-8 items-center justify-center text-center overflow-hidden">
+    <div className="flex flex-col pt-16 h-screen space-y-8 items-center justify-center text-center overflow-hidden">
       <BackgroundCircles />
       <img
         className="relative rounded-full h-32 w-32 mx-auto object-cover"
